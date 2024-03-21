@@ -44,10 +44,10 @@ This Node.js application, A backend system to manage inventory and sales for a s
    ```
    //Make a GET request
    //if you get "OKAY" response most probably everything was setup correctly
-   localhost:3000/
+   localhost:3003/
    ```
 
 ## API Documentation
 
-
+https://documenter.getpostman.com/view/24229567/2sA35A64Nn
 
